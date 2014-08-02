@@ -28,7 +28,7 @@ nav ul li {
 nav ul li a {
   color: black;
   text-decoration: none;
-  text-decoration: hover;
+  text-style: hover;
 }
 
 footer {
