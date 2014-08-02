@@ -1,3 +1,3 @@
 joshneale.github.io
-===================
-joshneale.github.io is a personal portfolio I am continually working on, hosted by GitHub.
+-------------------
+A personal portfolio I am currently working on. It will showcase my accomplishments playing drums and writing music.
