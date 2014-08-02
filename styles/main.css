@@ -1,12 +1,14 @@
 body {
   background: #FFFFFF;
   font-family: "Lucida Sans Unicode";
+  font-size: 20px;
   margin: 0;
 }
 
 header {
   background: #E0E0E0;
   color: black;
+  font-size: 30px;
   margin: 0;
 }
 
