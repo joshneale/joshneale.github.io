@@ -1,13 +1,13 @@
 body {
   background: #1000;
-  font-family: verdana;
+  font-family: arial;
   margin: 0;
 }
 
 header {
   background: #1000;
   color: black;
-  padding: 10px 10px 0 10px
+  padding: 10px 10px 0 20px
 }
 
 header h1 {
