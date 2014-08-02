@@ -5,6 +5,8 @@ body {
 }
 
 header {
+  position: fixed;
+  margin-top: 100px;
   background: #E0E0E0;
   color: black;
   margin: 0;
