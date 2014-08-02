@@ -27,6 +27,12 @@ nav ul li a {
   color: black;
 }
 
+footer {
+  background: #E0E0E0;
+  color: black;
+  margin: 0;
+}
+
 p {
   padding: 0 0 0 40px;
 }
