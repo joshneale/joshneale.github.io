@@ -1,13 +1,13 @@
 body {
-  background: #800;
+  background: #D0D0D0;
   font-family: "Lucida Sans Unicode";
   margin: 0;
 }
 
 header {
-  background: #1000;
+  background: #FFFFFF;
   color: black;
-  margin: 0;
+  padding: 10px 10px 10px 10px;
 }
 
 nav ul {
