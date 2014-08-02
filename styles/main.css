@@ -30,3 +30,7 @@ nav ul li a {
 p {
   padding: 0 0 0 40px;
 }
+
+p a {
+  color: black;
+}
