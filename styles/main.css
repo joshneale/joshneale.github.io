@@ -10,11 +10,6 @@ header {
   padding: 10px 10px 0 20px
 }
 
-header h1 {
-  margin: 0;
-  display: inline;
-}
-
 nav ul {
   padding: 0 0 0 20px;
   margin: 0;
