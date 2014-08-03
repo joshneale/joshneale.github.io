@@ -2,13 +2,11 @@ body {
 background: #FFFFFF;
 font-family: "Lucida Sans Unicode";
 margin: 0;
-padding: 0 0 0 20px;
 }
 
 header {
 background: #E0E0E0;
 font-family: "Lucida Sans Unicode"
-padding: 0 0 0 0;
 }
 
 nav ul {
