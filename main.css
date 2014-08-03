@@ -1,5 +1,5 @@
 body {
-background: #FFFFFF;
+background: #303030;
 font-family: "Lucida Sans Unicode";
 text-decoration: none;
 margin: 0;
@@ -15,8 +15,9 @@ text-decoration: none;
 }
 
 header {
-background: #E6E6E6;
+background: #000000;
 font-family: "Lucida Sans Unicode"
+font-size: 20px;
 margin: 0;
 }
 
@@ -29,7 +30,7 @@ nav ul li {
 display: inline-block;
 list-style-type: none;
 text-decoration: none;
-color: black;
+color: #303030;
 padding: 15px 30px 15px 0;
 margin: 0;
 }
