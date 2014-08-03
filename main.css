@@ -22,6 +22,7 @@ margin: 0;
 }
 
 nav ul {
+border-bottom: 1px solid #0B3B17;
 margin: 0;
 padding: 0 0 0 20px;
 }
@@ -32,7 +33,6 @@ list-style-type: none;
 text-decoration: none;
 font-size: 14px;
 color: #000000;
-border-bottom: 1px solid #0B3B17;
 padding: 15px 30px 15px 0;
 margin: 0;
 }
