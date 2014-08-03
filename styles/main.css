@@ -9,7 +9,7 @@ header {
   background: #E0E0E0;
   color: black;
   font-size: 15px;
-  margin: 0;
+  padding: 0 0 0 0;
 }
 
 nav ul {
@@ -33,7 +33,7 @@ nav ul li a {
 footer {
   background: #E0E0E0;
   color: black;
-  margin: 0;
+  padding:; 0 0 0 0;
   text-align: center;
   font-size: 10px;
 }
