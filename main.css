@@ -40,6 +40,7 @@ margin: 0;
 nav ul li a {
 color: #000000;
 text-decoration: none;
+border-bottom: 5px solid #0B3B17;
 }
 
 a:hover {
