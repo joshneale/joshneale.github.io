@@ -2,6 +2,7 @@ body {
 background: #FFFFFF;
 font-family: "Lucida Sans Unicode";
 margin: 0;
+padding: 0 0 0 20px;
 }
 
 header {
@@ -11,7 +12,7 @@ font-family: "Lucida Sans Unicode"
 
 nav ul {
 margin: 0;
-padding: 0 0 0 0;
+padding: 0 0 0 20px;
 }
 
 nav ul li {
