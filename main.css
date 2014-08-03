@@ -6,6 +6,11 @@ margin: 0;
 padding: 0 0 0 20px;
 }
 
+body a {
+color: blue;
+text-decoration: none;
+}
+
 header {
 background: #E0E0E0;
 font-family: "Lucida Sans Unicode"
@@ -29,4 +34,5 @@ margin: 0;
 
 nav ul li a {
 color: black;
+text-decoration: none;
 }
