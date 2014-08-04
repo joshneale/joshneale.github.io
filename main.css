@@ -37,6 +37,7 @@ padding: 0 0 0 20px;
 }
 
 nav ul {
+position: fixed;
 text-align: center;
 margin: 0;
 }
