@@ -42,7 +42,6 @@ margin: 0;
 
 nav ul li {
 display: inline-block;
-position: fixed;
 list-style-type: none;
 text-decoration: none;
 font-size: 16px;
