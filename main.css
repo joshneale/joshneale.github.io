@@ -26,6 +26,7 @@ header {
 background: #000000;
 font-family: "Trebuchet MS"
 text-align: center;
+position: fixed;
 margin: 0;
 }
 
