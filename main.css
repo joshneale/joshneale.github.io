@@ -23,6 +23,10 @@ text-align: center;
 margin: 0;
 }
 
+header img {
+text-align: left;
+}
+
 nav ul {
 text-align: center;
 margin: 0;
