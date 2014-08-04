@@ -26,7 +26,6 @@ margin: 0;
 nav ul {
 text-align: center;
 margin: 0;
-padding: 0 0 0 20px;
 }
 
 nav ul li {
@@ -35,7 +34,7 @@ list-style-type: none;
 text-decoration: none;
 font-size: 16px;
 color: #FFFFFF;
-padding: 15px 50px 15px 0;
+padding: 15px 25px 15px 25px;
 margin: 0;
 }
 
@@ -46,5 +45,5 @@ margin: 0;
 }
 
 a:hover {
-color: #999999;
+color: #CCCCCC;
 }
