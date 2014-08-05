@@ -16,6 +16,14 @@ color: #000000;
 text-decoration: underline;
 }
 
+h1 {
+padding: 0 20px 0 20px;
+}
+
+h2 {
+padding: 0 20px 0 20px;
+}
+
 .home {
 text-align: center;
 font-size: 18px;
@@ -57,5 +65,9 @@ margin: 0;
 }
 
 a:hover {
-color: #5F9EA0;
+text-decoration: underline;
+}
+
+a:hover body {
+color: blue;
 }
