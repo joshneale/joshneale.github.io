@@ -24,10 +24,6 @@ h2 {
 padding: 0 20px 0 20px
 }
 
-h2 a:hover {
-color: blue;
-}
-
 .home {
 text-align: center;
 font-size: 18px;
@@ -44,6 +40,33 @@ padding: 0 20px 0 20px;
 }
 
 .music a:hover {
+color: blue;
+}
+
+.drums {
+font-size: 18px;
+padding: 0 20px 0 20px;
+}
+
+.drums a:hover {
+color: blue;
+}
+
+.about {
+font-size: 18px;
+padding: 0 20px 0 20px;
+}
+
+.about a:hover {
+color: blue;
+}
+
+.contact {
+font-size: 18px;
+padding: 0 20px 0 20px;
+}
+
+.contact a:hover {
 color: blue;
 }
 
