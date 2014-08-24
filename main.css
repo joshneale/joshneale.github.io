@@ -36,7 +36,7 @@ color: blue;
 
 .music {
 font-size: 15px;
-padding: 0 20px 0 20px;
+padding: 20px 20px 0 20px;
 }
 
 .music a:hover {
@@ -45,7 +45,7 @@ color: blue;
 
 .drums {
 font-size: 15px;
-padding: 0 20px 0 20px;
+padding: 20px 20px 0 20px;
 }
 
 .drums a:hover {
@@ -54,7 +54,7 @@ color: blue;
 
 .about {
 font-size: 15px;
-padding: 0 20px 0 20px;
+padding: 20px 20px 0 20px;
 }
 
 .about a:hover {
@@ -63,7 +63,7 @@ color: blue;
 
 .contact {
 font-size: 15px;
-padding: 0 20px 0 20px;
+padding: 20px 20px 0 20px;
 }
 
 .contact a:hover {
