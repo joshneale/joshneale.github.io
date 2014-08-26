@@ -71,6 +71,11 @@ padding: 20px 40px 0 40px;
 color: blue;
 }
 
+
+img {
+position: center;  
+}
+
 header {
 background: #000000;
 font-family: "Trebuchet MS"
