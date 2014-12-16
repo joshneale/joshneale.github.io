@@ -4,12 +4,11 @@ text-align: justify;
 font-family: "Trebuchet MS";
 font-size: 14px;
 text-decoration: none;
-padding: 0 200px 0 200px;
 margin: 0;
 }
 
 p {
-padding: 0 40px 0 40px;
+padding: 0 200px 0 200px;
 }
 
 a {
@@ -20,11 +19,11 @@ text-decoration: underline;
 h1 {
 font-family: "Trebuchet MS";
 font-size: 30px;
-padding: 20px 40px 0 40px;
+padding: 20px 200px 0 200px;
 }
 
 h2 {
-padding: 20px 40px 0 40px
+padding: 20px 200px 0 200px
 }
 
 .home {
@@ -75,10 +74,6 @@ color: blue;
 .centeredimage {
 text-align: center;
 padding: 40px 20px 20px 20px;
-}
-
-.nav {
-margin: 0;
 }
 
 header {
