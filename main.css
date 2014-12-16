@@ -4,11 +4,11 @@ text-align: justify;
 font-family: "Trebuchet MS";
 font-size: 14px;
 text-decoration: none;
-margin: 0;
+padding: 0 200px 0 200px;
 }
 
 p {
-padding: 0 200px 0 200px;
+padding: 0 40px 0 40px;
 }
 
 a {
@@ -19,16 +19,16 @@ text-decoration: underline;
 h1 {
 font-family: "Trebuchet MS";
 font-size: 30px;
-padding: 20px 200px 0 200px;
+padding: 20px 40px 0 40px;
 }
 
 h2 {
-padding: 20px 200px 0 200px
+padding: 20px 40px 0 40px
 }
 
 .home {
 font-size: 15px;
-padding: 20px 200px 0 200px;
+padding: 20px 40px 0 40px;
 }
 
 .home a:hover {
@@ -37,7 +37,7 @@ color: blue;
 
 .music {
 font-size: 15px;
-padding: 20px 200px 0 200px;
+padding: 20px 40px 0 40px;
 }
 
 .music a:hover {
@@ -46,7 +46,7 @@ color: blue;
 
 .drums {
 font-size: 15px;
-padding: 20px 200px 0 200px;
+padding: 20px 40px 0 40px;
 }
 
 .drums a:hover {
@@ -55,7 +55,7 @@ color: blue;
 
 .about {
 font-size: 15px;
-padding: 20px 200px 0 200px;
+padding: 20px 40px 0 40px;
 }
 
 .about a:hover {
@@ -64,7 +64,7 @@ color: blue;
 
 .contact {
 font-size: 15px;
-padding: 20px 200px 0 200px;
+padding: 20px 40px 0 40px;
 }
 
 .contact a:hover {
