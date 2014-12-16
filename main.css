@@ -115,12 +115,8 @@ text-decoration: underline;
 }
 
 footer {
-display: inline-block;
-list-style-type: none;
-text-decoration: none;
+background: #000000;
+font-family: "Trebuchet MS"
 text-align: center;
-font-size: 16px;
-color: #FFFFFF;
-padding: 15px 50px 15px 0;
 margin: 0;
 }
