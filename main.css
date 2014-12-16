@@ -118,5 +118,6 @@ footer {
 background: #000000;
 font-family: "Trebuchet MS"
 text-align: center;
+position: bottom;
 margin: 0;
 }
