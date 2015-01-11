@@ -14,7 +14,7 @@ padding: 10px 50px 0px 50px;
 
 a {
 color: #000000;
-text-decoration: underline;
+text-decoration: italic;
 }
 
 h1 {
@@ -68,6 +68,7 @@ margin: 0;
 
 a:hover {
 text-decoration: underline;
+
 }
 
 .footer {
