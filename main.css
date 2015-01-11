@@ -73,6 +73,7 @@ text-decoration: underline;
 .footer {
 color: #C0C0C0;
 font-size: 12px;
+float: left;
 position: absolute;
 bottom: 0px;
 }
