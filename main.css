@@ -1,7 +1,7 @@
 body {
 background: #FFFFFF;
 text-align: justify;
-font-family: "Helvetica Neue Light";
+font-family: "Helvetica Neue";
 font-size: 14px;
 text-decoration: none;
 margin: 0;
@@ -17,7 +17,7 @@ text-decoration: underline;
 }
 
 h1 {
-font-family: "Helvetica Neue Light";
+font-family: "Helvetica Neue";
 font-size: 30px;
 padding: 20px 200px 0 200px;
 }
