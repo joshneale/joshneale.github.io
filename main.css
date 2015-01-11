@@ -19,13 +19,13 @@ text-decoration: underline;
 h1 {
 font-family: "Helvetica Neue";
 font-size: 30px;
-padding: 25px 200px 25px 200px;
+padding: 10px 50px 10px 50px;
 }
 
 h2 {
 font-family: "Helvetica Neue";
 font-size: 20px;
-padding: 20px 200px 0 200px
+padding: 10px 50px 10px 50px;
 }
 
 .centeredimage {
@@ -54,7 +54,7 @@ nav ul li {
 display: inline-block;
 list-style-type: none;
 text-decoration: none;
-font-size: 16px;
+font-size: 18px;
 color: #FFFFFF;
 padding: 15px 50px 15px 0;
 margin: 0;
@@ -72,6 +72,7 @@ text-decoration: underline;
 
 .footer {
 color: #C0C0C0;
+font-size: 10px;
 position: absolute;
 bottom: 0px;
 }
