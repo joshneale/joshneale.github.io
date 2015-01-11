@@ -1,6 +1,6 @@
 body {
 background: #FFFFFF;
-text-align: justify;
+text-align: left;
 font-family: "Helvetica Neue";
 font-size: 14px;
 text-decoration: none;
@@ -8,12 +8,16 @@ margin: 0;
 }
 
 p {
-padding: 0 200px 0 200px;
+padding: 0 50px 0 50px;
 }
 
 a {
 color: #000000;
 text-decoration: underline;
+}
+
+p, a {
+color: blue;
 }
 
 h1 {
@@ -23,52 +27,9 @@ padding: 20px 200px 0 200px;
 }
 
 h2 {
+font-family: "Helvetica Neue";
+font-size: 20px;
 padding: 20px 200px 0 200px
-}
-
-.home {
-font-size: 15px;
-padding: 0 200px 0 200px;
-}
-
-.home a:hover {
-color: blue;
-}
-
-.gear {
-font-size: 15px;
-padding: 0 200px 0 200px;
-}
-
-.gear a:hover {
-color: blue;
-}
-
-.gallery {
-font-size: 15px;
-padding: 0 200px 0 200px;
-}
-
-.gallery a:hover {
-color: blue;
-}
-
-.about {
-font-size: 15px;
-padding: 0 200px 0 200px;
-}
-
-.about a:hover {
-color: blue;
-}
-
-.contact {
-font-size: 15px;
-padding: 0 200px 0 200px;
-}
-
-.contact a:hover {
-color: blue;
 }
 
 .centeredimage {
@@ -78,8 +39,8 @@ padding: 40px 20px 20px 20px;
 
 header {
 background: #000000;
-font-family: "Trebuchet MS"
 text-align: center;
+position: fixed;
 margin: 0;
 }
 
@@ -112,4 +73,11 @@ margin: 0;
 
 a:hover {
 text-decoration: underline;
+}
+
+footer {
+  width:270px;
+  float:left;
+  position:fixed;
+  bottom:50px;
 }
