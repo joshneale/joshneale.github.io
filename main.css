@@ -5,6 +5,7 @@ body {
 }
 
 header {
+  display: inline;
   margin: 0;
 }
 
@@ -19,12 +20,14 @@ h2 {
 }
 
 nav ul {
+  display: inline;
   margin: 0;
 }
 
 nav ul li {
   display: inline-block;
   list-style-type: none;
+  padding: 10px 20px;
   margin: 0;
 }
 
