@@ -26,9 +26,13 @@ header {
 }
 
 footer {
-  color: #666666;
   padding: 30px 100px 30px 100px;
   margin: 0;
+}
+
+footer p {
+  background-color: #000000;
+  color: #FFFFFF;
 }
 
 h1 {
