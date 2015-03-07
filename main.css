@@ -1,12 +1,12 @@
 .index {
   font-family: andale mono;
   font-size: 100px;
-  text-align: center;
-  vertical-align: middle;
+  text-align: middle;
 }
 
 .index a {
   background-color: #000000;
+  padding: 5px;
 }
 
 body {
