@@ -1,3 +1,9 @@
+.index {
+  font-family: andale mono;
+  font-size: 100px;
+  position: center;
+}
+
 body {
   font-family: andale mono;
   font-size: 14px;
@@ -5,7 +11,7 @@ body {
 }
 
 p {
-  padding: 30px 100px 0px 60px;
+  padding: 30px 100px 0px 100px;
   margin: 0;
 }
 
