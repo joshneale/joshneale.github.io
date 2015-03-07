@@ -15,7 +15,7 @@ footer {
 
 h1 {
   font-size: 30px;
-  padding: 50px 100px;
+  padding: 50px 100px 20px 100px;
   margin: 0;
 }
 
@@ -36,5 +36,5 @@ nav ul li {
 }
 
 nav ul li a {
-
+  margin: 0;
 }
