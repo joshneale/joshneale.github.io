@@ -8,9 +8,13 @@ header {
   margin: 0;
 }
 
+footer {
+  padding: 0px 100px;
+  margin: 0;
+}
+
 h1 {
   font-size: 30px;
-  display: inline;
   padding: 50px 50px 50px 100px;
   margin: 0;
 }
@@ -21,7 +25,6 @@ h2 {
 }
 
 nav ul {
-  display: inline;
   margin: 0;
 }
 
