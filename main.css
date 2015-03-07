@@ -29,9 +29,9 @@ nav ul {
 }
 
 nav ul li {
-  display: inline-block;
+  position: float;
   list-style-type: none;
-  padding: 10px 10px 10px 100px;
+  padding: 10px 10px 10px 80px;
   margin: 0;
 }
 
