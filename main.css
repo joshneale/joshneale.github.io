@@ -95,6 +95,7 @@ a:active {
 }
 
 .gallery {
-  float: middle;
+  margin-left: auto;
+  margin-right: auto;
   padding: 30px 100px 0px 100px;
 }
