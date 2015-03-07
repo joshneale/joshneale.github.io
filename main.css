@@ -1,7 +1,7 @@
 body {
 background: #FFFFFF;
 text-align: left;
-font-family: "Helvetica Neue";
+font-family: "Arial";
 font-size: 16px;
 text-decoration: none;
 line-height: 140%;
@@ -18,13 +18,13 @@ text-decoration: italic;
 }
 
 h1 {
-font-family: "Helvetica Neue";
+font-family: "Arial";
 font-size: 30px;
 padding: 10px 50px 0px 50px;
 }
 
 h2 {
-font-family: "Helvetica Neue";
+font-family: "Arial";
 font-size: 20px;
 padding: 10px 50px 0px 50px;
 }
