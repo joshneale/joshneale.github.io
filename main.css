@@ -85,6 +85,6 @@ a:active {
 }
 
 .cover {
-  position: center;
+  float: middle;
   padding: 30px 100px;
 }
