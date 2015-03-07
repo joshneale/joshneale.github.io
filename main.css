@@ -1,11 +1,7 @@
 .index {
   font-family: andale mono;
   font-size: 100px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  margin-top: -50px;
-  margin-left: -100px;
+  text-align: center;
 }
 
 .index a {
