@@ -89,3 +89,7 @@ a:active {
   float: middle;
   padding: 30px 100px;
 }
+
+.float {
+  padding: 30px 100px;
+}
