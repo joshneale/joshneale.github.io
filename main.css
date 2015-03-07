@@ -5,12 +5,12 @@ body {
 }
 
 header {
-  display: inline;
   margin: 0;
 }
 
 h1 {
   font-size: 30px;
+  display: inline;
   margin: 0;
 }
 
