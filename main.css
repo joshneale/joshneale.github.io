@@ -84,6 +84,7 @@ a:active {
   color: #FFFFFF;
 }
 
-div img {
+.cover {
   position: center;
+  padding: 30px 0px;
 }
