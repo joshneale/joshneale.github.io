@@ -95,6 +95,6 @@ a:active {
 }
 
 .gallery {
-  position: middle;
+  position: absolute;
   padding: 30px 100px 0px 100px;
 }
