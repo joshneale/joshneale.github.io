@@ -99,12 +99,3 @@ a:active {
   position: center;
   padding: 15px 100px 15px 100px;
 }
-
-.gallerytitle p {
-  margin: auto;
-  position: center;
-  font-size: 14px;
-  color: #FFFFFF;
-  background-color: #000000;
-  padding: 5px;
-}
