@@ -1,17 +1,17 @@
 .index {
-  font-family: andale mono;
+  font-family: times;
   font-size: 100px;
   text-align: middle;
 }
 
 .index a {
-  background-color: #000000;
+  background-color: none;
   padding: 5px;
 }
 
 body {
-  font-family: andale mono;
-  font-size: 14px;
+  font-family: times;
+  font-size: 12px;
   line-height: 130%;
   margin: 0;
 }
@@ -27,6 +27,7 @@ header {
 
 footer {
   color: #666666;
+  position: center;
   padding: 30px 100px 30px 100px;
   margin: 0;
 }
@@ -38,7 +39,7 @@ h1 {
 }
 
 h2 {
-  font-size: 16px;
+  font-size: 14px;
   margin: 0;
 }
 
@@ -52,7 +53,7 @@ nav ul {
 }
 
 nav ul li {
-  display: inline-block;
+  display: center;
   list-style-type: none;
   font-size: 18px;
   padding: 0px 50px 0px 0px;
@@ -60,29 +61,29 @@ nav ul li {
 }
 
 nav ul li a {
-  background-color: #000000;
+  text-decoration: none;
   padding: 5px;
   margin: 0;
 }
 
 a:link {
   text-decoration: none;
-  color: #FFFFFF;
+  color: #000000;
 }
 
 a:visited {
   text-decoration: none;
-  color: #FFFFFF;
+  color: #000000;
 }
 
 a:hover {
   text-decoration: underline;
-  color: #FFFFFF;
+  color: #000000;
 }
 
 a:active {
   text-decoration: underline;
-  color: #FFFFFF;
+  color: #000000;
 }
 
 .cover {
