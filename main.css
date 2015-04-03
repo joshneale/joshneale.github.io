@@ -27,7 +27,7 @@ header {
 
 footer {
   color: #666666;
-  position: center;
+  position: middle;
   padding: 30px 100px 30px 100px;
   margin: 0;
 }
@@ -44,7 +44,7 @@ h2 {
 }
 
 nav {
-  position: center;
+  position: middle;
   padding: 30px 100px 0px 60px;
   margin: 0;
 }
@@ -54,7 +54,7 @@ nav ul {
 }
 
 nav ul li {
-  display: center;
+  display: middle;
   list-style-type: none;
   font-size: 18px;
   padding: 0px 50px 0px 0px;
@@ -62,7 +62,7 @@ nav ul li {
 }
 
 nav ul li a {
-  position: center;
+  position: middle;
   text-decoration: none;
   padding: 5px;
   margin: 0;
@@ -99,6 +99,6 @@ a:active {
 
 .gallery {
   margin: auto;
-  position: center;
+  position: middle;
   padding: 15px 100px 15px 100px;
 }
