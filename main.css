@@ -45,7 +45,6 @@ h2 {
 }
 
 nav {
-  position: middle;
   padding: 30px 100px 0px 60px;
   margin: 0;
 }
@@ -55,15 +54,16 @@ nav ul {
 }
 
 nav ul li {
-  display: middle;
   list-style-type: none;
+  float: left;
   font-size: 18px;
   padding: 0px 50px 0px 0px;
   margin: 0;
 }
 
 nav ul li a {
-  position: middle;
+  display: block;
+  text-align: center;
   text-decoration: none;
   padding: 5px;
   margin: 0;
