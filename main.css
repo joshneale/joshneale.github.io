@@ -51,6 +51,7 @@ nav {
 
 nav ul {
   margin: 0;
+  text-align: center;
 }
 
 nav ul li {
@@ -63,7 +64,6 @@ nav ul li {
 
 nav ul li a {
   display: block;
-  text-align: center;
   text-decoration: none;
   padding: 5px;
   margin: 0;
