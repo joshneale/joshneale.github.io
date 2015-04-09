@@ -1,5 +1,5 @@
 .index {
-  font-family: times;
+  font-family: georgia;
   font-size: 100px;
   text-align: middle;
 }
@@ -10,7 +10,7 @@
 }
 
 body {
-  font-family: times;
+  font-family: georgia;
   font-size: 14px;
   line-height: 130%;
   margin: 0;
@@ -45,7 +45,7 @@ h2 {
 }
 
 nav {
-  border-bottom: 1px solid #000000;
+  border-bottom: 2px solid #000000;
   padding: 12px 0px 12px 0px;
   margin: 0;
 }
