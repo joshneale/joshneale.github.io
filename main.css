@@ -28,7 +28,7 @@ header {
 
 footer {
   color: #666666;
-  position: middle;
+  position: center;
   padding: 30px 100px 30px 100px;
   margin: 0;
 }
@@ -55,7 +55,6 @@ nav ul {
 }
 
 nav ul li {
-  display: inline;
   list-style-type: none;
   font-size: 18px;
   padding: 0px 50px 0px 0px;
