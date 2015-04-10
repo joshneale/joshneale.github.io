@@ -29,8 +29,12 @@ footer {
   color: #666666;
   font-size: 10px;
   position: center;
-  padding: 30px 100px 30px 100px;
+  padding: 30px 200px 30px 200px;
   margin: 0;
+}
+
+.indexfooter {
+  padding: 30px 100px 30px 100px;
 }
 
 h1 {
