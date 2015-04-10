@@ -111,3 +111,10 @@ a:active {
   position: center;
   padding: 30px 0px 0px 0px;
 }
+
+.mailto {
+  font-size: 18px;
+  text-align: center;
+  padding: 30px 0px 0px 0px;
+  margin: 0;
+}
