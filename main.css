@@ -50,7 +50,7 @@ h2 {
 
 nav {
   border-bottom: 2px solid #000000;
-  padding: 12px 0px 12px 0px;
+  padding: 10px 0px 10px 0px;
   margin: 0;
 }
 
@@ -62,7 +62,7 @@ nav ul {
 nav ul li {
   display: inline-block;
   list-style-type: none;
-  font-size: 16px;
+  font-size: 14px;
   padding: 0px 40px 0px 0px;
   margin: 0;
 }
