@@ -1,13 +1,14 @@
-.index {
-  font-family: georgia;
-  font-size: 20px;
-  text-align: center;
+.cover {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: center;
 }
 
 body {
   font-family: georgia;
   font-size: 14px;
-  line-height: 130%;
+  line-height: 150%;
   letter-spacing: 2px;
   margin: 0;
 }
@@ -82,7 +83,7 @@ a:hover {
 }
 
 a:active {
-  text-decoration: underline;
+  text-decoration: strong;
   color: #000000;
 }
 
