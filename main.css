@@ -68,6 +68,7 @@ nav ul li {
 }
 
 nav ul li a {
+  active: underline;
   display: inline-block;
   text-decoration: none;
   padding: 5px;
@@ -91,7 +92,6 @@ a:hover {
 
 a:active {
   text-decoration: underline;
-  text-decoratiob: bold;
   color: #000000;
 }
 
