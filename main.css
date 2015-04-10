@@ -15,7 +15,7 @@ body {
 }
 
 p {
-  padding: 30px 100px 0px 100px;
+  padding: 30px 200px 0px 200px;
   margin: 0;
 }
 
@@ -28,13 +28,13 @@ header {
 footer {
   color: #666666;
   position: center;
-  padding: 30px 100px 30px 100px;
+  padding: 30px 200px 30px 200px;
   margin: 0;
 }
 
 h1 {
   font-size: 30px;
-  padding: 30px 100px 0px 100px;
+  padding: 30px 200px 0px 200px;
   margin: 0;
 }
 
