@@ -113,7 +113,12 @@ a:active {
 }
 
 .welcome {
-  text-align: justify;
+  text-align: center;;
+  padding: 30px 200px 0px 200px;
+}
+
+.projects {
+  text-align: center;;
   padding: 30px 200px 0px 200px;
 }
 
