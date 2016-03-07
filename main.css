@@ -21,7 +21,9 @@ p {
 
 header {
   background-color: #F0F0F0;
-  position: center;
+  position: fixed;
+  top: 0px;
+  width: 100%;
   margin: 0;
 }
 
