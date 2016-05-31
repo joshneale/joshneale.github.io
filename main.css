@@ -1,0 +1,127 @@
+.cover {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: center;
+}
+
+body {
+  background-color: #F8F8F8;
+  font-family: 'Century Gothic';
+  font-size: 14px;
+  line-height: 150%;
+  letter-spacing: 2px;
+  margin: 0;
+}
+
+p {
+  padding: 30px 200px 0px 200px;
+  margin: 0;
+}
+
+header {
+  background-color: #F0F0F0;
+  width: 100%;
+  margin: 0;
+}
+
+footer {
+  color: #666666;
+  text-align: center;
+  font-size: 10px;
+  position: center;
+  padding: 30px 0px 30px 0px;
+  margin: 0;
+}
+
+h1 {
+  font-size: 30px;
+  padding: 30px 200px 0px 200px;
+  margin: 0;
+}
+
+h2 {
+  font-size: 14px;
+  font-style: none;
+  font-decoration: underline;
+  padding: 30px 200px 0px 200px;
+  margin: 0;
+}
+
+nav {
+  border-bottom: 2px solid #000000;
+  padding: 10px 0px 10px 0px;
+  margin: 0;
+}
+
+nav ul {
+  margin: 0;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline-block;
+  list-style-type: none;
+  font-size: 14px;
+  padding: 0px 40px 0px 0px;
+  margin: 0;
+}
+
+nav ul li a {
+  active: underline;
+  display: inline-block;
+  text-decoration: none;
+  padding: 5px;
+  margin: 0;
+}
+
+a:link {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #000000;
+}
+
+a:active {
+  text-decoration: underline;
+  color: #000000;
+}
+
+.cover {
+  float: middle;
+  padding: 30px 0px 0px 0px;
+}
+
+.float {
+  padding: 0px 0px 0px 100px;
+}
+
+.gallery {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: center;
+  padding: 30px 0px 0px 0px;
+}
+
+.welcome {
+  text-align: center;
+  padding: 30px 200px 0px 200px;
+}
+
+.projects {
+  text-align: justify;
+  padding: 30px 200px 0px 200px;
+}
+
+.discharge {
+  margin-left: 60px;
+}
